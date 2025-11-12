@@ -1,0 +1,5 @@
+{
+  "name": "Sticker Dream",
+  "description": "An application that transforms your photos into unique sticker designs using AI. Upload an image, choose a style like anime or cartoon, and let Sticker Dream create a custom sticker for you.",
+  "requestFramePermissions": []
+}
